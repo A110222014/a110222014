@@ -5,3 +5,13 @@ C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_pr
 C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.csproj.GenerateResource.Cache
 C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.exe
 C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.pdb
+C:\Users\m306\Documents\GitHub\a110222014\Ch6 Tutorial\Program6_6\chp6_prob6\bin\Debug\chp6_prob6.exe.config
+C:\Users\m306\Documents\GitHub\a110222014\Ch6 Tutorial\Program6_6\chp6_prob6\bin\Debug\chp6_prob6.exe
+C:\Users\m306\Documents\GitHub\a110222014\Ch6 Tutorial\Program6_6\chp6_prob6\bin\Debug\chp6_prob6.pdb
+C:\Users\m306\Documents\GitHub\a110222014\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.csproj.AssemblyReference.cache
+C:\Users\m306\Documents\GitHub\a110222014\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.Form1.resources
+C:\Users\m306\Documents\GitHub\a110222014\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.Properties.Resources.resources
+C:\Users\m306\Documents\GitHub\a110222014\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.csproj.GenerateResource.cache
+C:\Users\m306\Documents\GitHub\a110222014\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.csproj.CoreCompileInputs.cache
+C:\Users\m306\Documents\GitHub\a110222014\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.exe
+C:\Users\m306\Documents\GitHub\a110222014\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.pdb
